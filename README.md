@@ -7,7 +7,7 @@ Izzy works at Leeds Museum and has access to various wallpapers and fabrics that
 Izzy used the Pi camera to approximate the colour of a garment worn by the visitor, and they select a matching item from the collection.
 I spoke to Izzy and mentioned that the Envirophat from Pimoroni could do the same job, with less code, and well here is a proof of concept.
 
-[Blog post will be at](http://bigl.es) as part of my Friday Fun posts.
+[Blog post will be on my blog](http://bigl.es) as part of my Friday Fun posts.
 
 Thanks!
 
